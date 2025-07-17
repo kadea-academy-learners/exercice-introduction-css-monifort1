@@ -1,3 +1,28 @@
+main{
+  background-color: darkgrey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1, p h2 {
+  text-align: center;
+  
+}
+
+figure{
+  background-color: white;
+  text-align: center;
+}
+
+img{
+  width: 50% ;  
+}
+ul{
+  max-width: 30%;
+  margin: 0 30%;
+   
+}
 
 
 
